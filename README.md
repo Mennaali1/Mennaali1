@@ -6,7 +6,7 @@ Web Developer
 
 I'm a computer science graduate, whose passionate about web development, and always seeks to learn more.
 
-* 🌍  I'm based in Cairo
+* 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mennaalyy9@gmail.com](mailto:mennaalyy9@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
