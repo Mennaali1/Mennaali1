@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I'm a computer science graduate, whose passionate about web development, and always seeks to learn more.
+I'm a web developer, whose passionate about backend development, and always seeks to learn more.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mennaalyy9@gmail.com](mailto:mennaalyy9@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning backend development with nodejs
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
