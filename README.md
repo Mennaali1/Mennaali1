@@ -8,7 +8,7 @@ I'm a web developer, whose passionate about backend development, and always seek
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [mennaalyy9@gmail.com](mailto:mennaalyy9@gmail.com)
-* 🧠  I'm learning backend development with nodejs
+* 🧠  I'm a backend Developer
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
